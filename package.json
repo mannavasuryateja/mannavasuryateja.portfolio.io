@@ -1,0 +1,12 @@
+{
+  "name": "suryateja-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Suryateja Mannava",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Suryateja Mannava",
+  "license": "ISC"
+}
